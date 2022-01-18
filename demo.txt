@@ -1,2 +1,7 @@
 adding some text. This is a test.
+<<<<<<< HEAD
 From master.
+=======
+
+Added from branch1.
+>>>>>>> branch1
